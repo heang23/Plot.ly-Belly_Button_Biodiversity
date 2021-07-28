@@ -1,4 +1,6 @@
-# Plot.ly Homework - Belly Button Biodiversity
+# Plot.ly - Belly Button Biodiversity
+
+Result: https://heang23.github.io/Plot.ly-Belly_Button_Biodiversity/StarterCode/index.html
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
@@ -46,7 +48,7 @@ Additionally, you are welcome to create any layout that you would like for your 
 
 ![hw](Images/hw02.png)
 
-## Advanced Challenge Assignment (Optional)
+## Advanced Challenge
 
 The following task is advanced and therefore optional.
 
@@ -58,20 +60,9 @@ The following task is advanced and therefore optional.
 
 ![Weekly Washing Frequency Gauge](Images/gauge.png)
 
-## Deployment
-
-Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
-
-## Hints
-
-* Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
-
-* Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
 
 ### About the Data
 
 Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
 
 - - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
